@@ -1,6 +1,5 @@
-welcome class of git hub {
+welcome class {
 a=10;
 b=10;
 c=30;
 } 
-
